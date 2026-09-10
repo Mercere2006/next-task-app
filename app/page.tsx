@@ -48,7 +48,7 @@ export default function Page() {
       </div>
       {/* แสดงรูป logo ของแอป */}
       <Image
-        src="https://xeqtggywsdyrqsmxkatb.supabase.co/storage/v1/object/public/task_tb/task_logo.png"
+        src="https://xeqtggywsdyrqsmxkatb.supabase.co/storage/v1/object/public/task_bk/task_logo.png"
         alt="logo"
         width={200}
         height={200}
